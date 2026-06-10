@@ -5,8 +5,8 @@ Second-year Computer Science student at Emeris Cape Town, building full-stack we
 ---
 ### What I'm building
 **[Market Simulator](https://github.com/aaronellman/market-simulator)** A simulated financial exchange engine built in Python. Features a limit order book with price-time priority matching,
-a REST API, and an autonomous bot framework. Bots trade against each other in real time, with a market maker coming soon, providing liquidity and
-random noise traders driving price discovery.
+a REST API, and an autonomous bot framework. Bots trade against each other in real time, with a market maker coming soon, providing liquidity.
+Random noise traders driving price discovery too.
 
 ---
 
