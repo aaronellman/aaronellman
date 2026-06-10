@@ -3,10 +3,10 @@
 Second-year Computer Science student at Emeris Cape Town, building full-stack web tools and automation software. I like making things that actually ship.
 
 ---
-
-### 🚀 What I'm building
-
-**[Schedufast](https://schedufast.co.za)** A live SaaS tool that automates student timetable scheduling. Parses class data and adds everything to Google Calendar automatically, saving users up to 2 hours per timetable. Real users, subscription billing via Paystack, running in production.
+### What I'm building
+**[Market Simulator](https://github.com/aaronellman/market-simulator)** A simulated financial exchange engine built in Python. Features a limit order book with price-time priority matching,
+a REST API, and an autonomous bot framework. Bots trade against each other in real time, with a market maker providing liquidity and
+random noise traders driving price discovery.
 
 ---
 
@@ -15,8 +15,8 @@ Second-year Computer Science student at Emeris Cape Town, building full-stack we
 | Project | What it does | Stack |
 |---|---|---|
 | [Schedufast](https://schedufast.co.za) | Automates student timetable scheduling with Google Calendar integration + subscription billing | Python, FastAPI, Paystack, Google Calendar API, GitHub Actions |
-| [Market Simulator](https://github.com/aaronellman) | Financial exchange engine with a limit order book, price-time priority matching, and a configurable bot framework for stress testing | Python, FastAPI, PostgreSQL, Docker, asyncio |
-| [Bank Statement Analyser](https://github.com/aaronellman) | CLI tool that parses FNB PDF statements, auto-categorises transactions, and surfaces spending insights | Python, SQLite, Pydantic |
+| [Market Simulator](https://github.com/aaronellman/market-simulator) | Financial exchange engine with a limit order book, price-time priority matching, and a configurable bot framework for stress testing | Python, FastAPI, PostgreSQL, Docker, asyncio |
+| [Bank Statement Analyser](https://github.com/aaronellman/bank-statement-analyser) | CLI tool that parses FNB PDF statements, auto-categorises transactions, and surfaces spending insights | Python, SQLite, Pydantic |
 
 ---
 
