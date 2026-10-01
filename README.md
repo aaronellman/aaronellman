@@ -37,7 +37,7 @@ Random noise traders driving price discovery too.
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-
+![.NET](https://img.shields.io/badge/-.NET%208.0-blueviolet?logo=dotnet)
 ---
 
 ### 📫 Get in touch
